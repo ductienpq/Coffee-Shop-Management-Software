@@ -2,7 +2,7 @@
 
 # Phần mềm quản lý quán cà phê Tôm Tít 
 <p align="center">
-  <img width="350" height="300" src="https://github.com/ductienpq/Coffee-Shop-Management-Software/logo.ico">
+  <img width="350" height="300" src="https://github.com/ductienpq/Coffee-Shop-Management-Software/blob/master/logo.ico">
 </p>                
 
 Ngày nay, CNTT đã và đang đóng vai trò quan trọng trong đời sống kinh tế, xã hội của nhiều quốc gia trên thế giới, là một phần không thể thiếu trong xã hội năng động, ngày càng hiện đại hoá. Vì vậy, việc tin học hoá vào một số lĩnh vực là hoàn toàn có thể và phù hợp với xu hướng hiện nay.
@@ -20,7 +20,7 @@ Chúng tôi dùng [Git](https://git-scm.com/) để tổ chức quản lý phiê
 
 ## Giấy phép
 
-Đồ án này được cấp phép theo giấy phép của General Public License - xem file [LICENSE.md](https://github.com/ductienpq/Coffee-Shop-Management-Software/Documents/LICENSE.md) để biết thêm chi tiết. Mọi sự sao chép, sử dụng với mục đích thương mại đều trái với quy tắc và giấy phép của chúng tôi.
+Đồ án này được cấp phép theo giấy phép của General Public License - xem file [LICENSE.md](https://github.com/ductienpq/Coffee-Shop-Management-Software/blob/master/Documents/LICENSE.md) để biết thêm chi tiết. Mọi sự sao chép, sử dụng với mục đích thương mại đều trái với quy tắc và giấy phép của chúng tôi.
 
 
 ## Kiến thức áp dụng
@@ -46,7 +46,7 @@ Tài liệu này chủ yếu hướng dẫn sinh viên với ngôn ngữ lập t
 * Phạm vi áp dụng:
 
 Những lập trình viên tham gia dự án phát triển bằng ngôn ngữ C# và công cụ Visual Studio .Net.
-* CHI TIẾT VỀ CHUẨN LẬP TRÌNH [xin xem tại đây](https://github.com/ductienpq/Coffee-Shop-Management-Software/Documents/Chu%E1%BA%A9n%20L%E1%BA%ADp%20Tr%C3%ACnh.md)
+* CHI TIẾT VỀ CHUẨN LẬP TRÌNH [xin xem tại đây](https://github.com/ductienpq/Coffee-Shop-Management-Software/blob/master/Documents/Chu%E1%BA%A9n%20L%E1%BA%ADp%20Tr%C3%ACnh.md)
 
 ## Tổ chức mã nguồn
 
@@ -122,21 +122,21 @@ SQL Server được tối ưu để có thể chạy trên môi trường cơ s�
 
 ## Đóng góp
 
-Vui lòng đọc [Quy tắc đóng góp](https://github.com/TeamworkTCU/4305-FOSSD-Project/blob/master/Documents/Quy_tac_dong_gop.md) để biết thêm chi tiết về quy tắc và trình tự đóng góp vào dự án với chúng tôi
+Vui lòng đọc [Quy tắc đóng góp](https://github.com/ductienpq/Coffee-Shop-Management-Software/blob/master/Documents/Quy_tac_dong_gop.md) để biết thêm chi tiết về quy tắc và trình tự đóng góp vào dự án với chúng tôi
 
 ## Quy tắc ứng xử
 
-Vui lòng đọc [Quy tắc ứng xử](https://github.com/TeamworkTCU/4305-FOSSD-Project/blob/master/Documents/Quy_tac_ung_xu.md) để biết thêm chi tiết về quy tắc ứng xử của chúng tôi.
+Vui lòng đọc [Quy tắc ứng xử](https://github.com/ductienpq/Coffee-Shop-Management-Software/blob/master/Documents/Quy_tac_ung_xu.md) để biết thêm chi tiết về quy tắc ứng xử của chúng tôi.
 
 ## Tài liệu cho người dùng cuối
 
-Mời các bạn [Click đây để xem tài liệu cho người dùng cuối](https://github.com/ductienpq/Coffee-Shop-Management-Software/Documents/T%C3%A0i%20Li%E1%BB%87u%20cho%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20cu%E1%BB%91i.md)
+Mời các bạn [Click đây để xem tài liệu cho người dùng cuối](https://github.com/ductienpq/Coffee-Shop-Management-Software/blob/master/Documents/T%C3%A0i%20Li%E1%BB%87u%20cho%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20cu%E1%BB%91i.md)
 
 ## Tài liệu cho nhà phát triển
-Mời các bạn [Click đây để xem tài liệu cho nhà phát triển](https://github.com/ductienpq/Coffee-Shop-Management-Software/Documents/T%C3%A0i%20Li%E1%BB%87u%20D%C3%A0nh%20Cho%20Ng%C6%B0%E1%BB%9Di%20Ph%C3%A1t%20Tri%E1%BB%83n.md)
+Mời các bạn [Click đây để xem tài liệu cho nhà phát triển](https://github.com/ductienpq/Coffee-Shop-Management-Software/blob/master/Documents/T%C3%A0i%20Li%E1%BB%87u%20D%C3%A0nh%20Cho%20Ng%C6%B0%E1%BB%9Di%20Ph%C3%A1t%20Tri%E1%BB%83n.md)
 
 ## Tài liệu thiết kế
-Mời các bạn [Click đây để xem tài liệu thiết kế](https://github.com/ductienpq/Coffee-Shop-Management-Software/Documents/TailieuThietke.md)
+Mời các bạn [Click đây để xem tài liệu thiết kế](https://github.com/ductienpq/Coffee-Shop-Management-Software/blob/master/Documents/TailieuThietke.md)
 
 
 ## Lời cảm ơn
