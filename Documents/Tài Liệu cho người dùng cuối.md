@@ -1,4 +1,4 @@
-# 4305 Đồ án môn học Phát triển phần mềm mã nguồn mở
+# 4305 Đồ án môn học Lập trình C#
 ## Tài Liệu cho người dùng cuối
 * Để hiểu rõ về cách thức xử lý và hoạt động xin mời đọc
 [Tài Liệu Dành Cho Người Phát Triển](https://github.com/TeamworkTCU/4305-FOSSD-Project/blob/master/Documents/T%C3%A0i%20Li%E1%BB%87u%20D%C3%A0nh%20Cho%20Ng%C6%B0%E1%BB%9Di%20Ph%C3%A1t%20Tri%E1%BB%83n.md)
